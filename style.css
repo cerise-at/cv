@@ -1,0 +1,22 @@
+.dot {
+    height: 6vw;
+    width: 6vw;
+    background-color: rgb(163, 36, 36);
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  #title {
+      font-family: Helvetica, sans-serif;
+      font-size: 3.9vw;
+      color: rgb(163, 36, 36);
+  }
+ul {
+  text-align: center;
+}
+
+ul > li {
+    display: inline;
+    font-size: 2vw;
+    margin: 6vw;
+}
