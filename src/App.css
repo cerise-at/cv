@@ -1,0 +1,33 @@
+
+*{
+    
+}
+
+body, html {
+    
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    background-image: url(../img/treesmall.jpg);
+    
+  }
+
+#initial {
+    font-family: 'Abril Fatface, cursive';
+    font-size: 40vw;
+    font-weight: bolder;
+    margin-top: -10vw;
+    margin-right: -10vw;
+    color: darkslategrey;
+    text-align: right;
+}
+
+#briefHistory {
+    padding: 10vw;
+    margin: 5%;
+    color:darkslategrey;
+    text-align: right;
+}
+
